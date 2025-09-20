@@ -101,7 +101,7 @@ Input Text → Tokenizer → Embeddings → Transformer Blocks → Output
 - 3 transformer layers
 - ~50K parameters (vs GPT-3's 175B!)
 
-~~~
+```
 
 ## 🔧 Customization
 
